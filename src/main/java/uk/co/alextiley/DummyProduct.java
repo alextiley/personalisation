@@ -15,7 +15,7 @@ public class DummyProduct {
 	
 	@Override
 	public String toString() {
-		return "(Product {\"id\": \"" + this.id + "\", \"name\": \"" + this.title + "\"})";
+		return "<DummyProduct: {\"id\": \"" + this.id + "\", \"name\": \"" + this.title + "\"}>";
 	}
 	
 	public long getId() {
