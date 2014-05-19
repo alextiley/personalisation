@@ -1,4 +1,4 @@
-package uk.co.alextiley;
+package uk.co.personalisation.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
